@@ -1,0 +1,75 @@
+const mongoose=require('mongoose')
+
+const orderSchema=mongoose.Schema({
+    shippingInfo:{
+        address:{
+            type:String,
+            required:true
+        },
+        city:{
+            type:String,
+            required:true
+        },
+        country:{
+            type:String,
+            required:true
+        },
+        phonenumber:{
+            type:Number,
+            required:true
+        },
+        postalcode:{
+            type:String,
+            required:true
+        }
+    },
+    user:{
+        type:mongoose.Schema.Types.ObjectId,
+        ref:'User'
+    },
+    OrderItems:[{
+        name:{
+            type:String,
+            required:true
+        },
+        quantity:{
+            type:Number,
+            required:true
+        },
+        price:{
+            type:Number,
+            required:true
+        },
+        product:{
+            type:mongoose.Schema.Types.ObjectId,
+            ref:"Product"
+        }
+}],
+ItemsPrice:{
+    type:Number,
+    default:0.0
+
+},
+taxPrice:{
+    type:Number,
+    default:0.0
+},
+shipingPrice:{
+    type:Number,
+    default:0.0
+},
+totalPrice:{
+    type:Number,
+    default:0.0
+},
+orderStatus:{
+    type:String,
+    default:"Processing"
+},
+createdAt:{
+    type:Date,
+    dafault:Date.now
+}
+})
+
+module.exports=new mongoose.model('orders',orderSchema)

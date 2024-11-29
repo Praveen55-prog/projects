@@ -1,0 +1,212 @@
+[
+    {
+        "name":"OPPO F21s Pro 5G",
+        "price":24567,
+        "description":"OPPO F21s Pro 5G is a powerful device",
+        "ratings":4.5,
+        
+            "image":"/images/products/1.jpg",
+        
+        "category":"Mobile Phones",
+        "seller":"Amazon",
+        "stock":10
+    },
+    {
+        "name":"Wristio HD,Bluetooth calling smart Watch",
+        "price":5000,
+        "description":"Wristio HD,Bluetooth calling smart Watch is powerful watch",
+        "ratings":3.0,
+        
+            "image":"/images/products/2.jpg",
+        
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":5
+    },
+    {
+        "name":"Redmi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32MA-FVIN (Black)",
+        "price":11249,
+        "description":"Connectivity: Dual Band Wi-Fi (2.4 GHz/ 5 GHz) | 2 HDMI ports to connect set top box, gaming consoles, DVD or Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ARC | Bluetooth 5.0 | Ethernet | 3.5mm earphone Jack",
+        "ratings":3.0,
+        
+            "image":"/images/products/3.jpg",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":15
+    },
+
+    {
+        "name":"Xiaomi Smart TV A 80 cm (32) HD Ready Smart Google LED TV L32MA-AIN (Black)",
+        "price":12990,
+        "description":"Dual Band Wi-Fi | 2 HDMI ports to connect latest gaming consoles, set top box, Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ALLM | eARC | Bluetooth 5.0 | Optical | Ethernet",
+        "ratings":4.0,
+        
+            "image":"/images/products/7.jpg",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":12
+    },
+
+    {
+        "name":"Panasonic 80 cm (32 inches) HD Ready Smart LED Google TV TH32MS660DX (Black)",
+        "price":15990,
+        "description":"Connectivity: 2 HDMI ports to connect set top box, Blu-ray speakers or gaming console | 2 USB ports to connect hard drives or other USB devices | Bluetooth | Built-in Wi-Fi",
+        "ratings":4.5,
+        
+            "image":"/images/products/8.jpg",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":12
+    },
+
+    
+    {
+        "name":"Xiaomi 108 cm (43 inches) X Pro QLED Series Smart Google TV L43MA-SIN (Black)",
+        "price":34990,
+        "description":"Connectivity: Dual Band Wi-Fi | 3 HDMI ports to connect latest gaming consoles, set top box, Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ALLM | eARC | Bluetooth 5.0 | Optical | Ethernet",
+        "ratings":4.3,
+        
+            "image":"/images/products/9.jpg",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":12
+    },
+
+    {
+        "name":"Samsung Galaxy M15 5G Prime Edition",
+        "price":14990,
+        "description":"Samsung Galaxy M15 5G Prime Edition (Blue Topaz,6GB RAM,128GB Storage) | Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+ | 4 Gen. OS Upgrade & 5 Year Security Update",
+        "ratings":4.6,
+        
+            "image":"/images/products/10.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":12
+    },
+    
+    {
+        "name":"OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)",
+        "price":17990,
+        "description":"OnePlus 5G Prime Edition (Blue Topaz,6GB RAM,128GB Storage) | Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+ | 4 Gen. OS Upgrade & 5 Year Security Update",
+        "ratings":4.6,
+        
+            "image":"/images/products/11.webp",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":12
+    },
+    {
+        "name":"Samsung Galaxy S23 Ultra 5G AI Smartphone (Green, 12GB, 256GB Storage)",
+        "price":79990,
+        "description":"200MP. Wow-worthy resolution - Resolution on the Wide-angle Camera has nearly doubled, delivering strikingly clear photos. Zoom and crop your shots for a whole new view —or leave it intact for brilliant detail, corner to corner.",
+        "ratings":4.6,
+        
+            "image":"/images/products/12.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":10
+    },
+    {
+        "name":"Apple iPhone 16 (128 GB) - Black",
+        "price":78400,
+        "description":" iPhone 16 has a sturdy, aerospace-grade aluminium design with a 15.54 cm (6.1″) Super Retina XDR display. It’s remarkably durable with the latest-generation Ceramic Shield material that’s 2x tougher than any smartphone glass.",
+        "ratings":4.3,
+        
+            "image":"/images/products/13.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":10
+    },
+    {
+        "name":"Apple 2023 MacBook Pro (16-inch, Apple M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+        "price":379990,
+        "description":" SUPERCHARGED BY M3 PRO OR M3 MAX — The Apple M3 Pro chip, with a 12-core CPU and 18-core GPU using hardware-accelerated ray tracing, delivers amazing performance for demanding workflows like manipulating gigapixel panoramas or compiling millions of lines of code.",
+        "ratings":4.6,
+        
+            "image":"/images/products/14.webp",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":10
+    },
+    {
+        "name":"2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage",
+        "price":84990,
+        "description":"SUPERCHARGED BY M2 – Get more done faster with a next-generation 8-core CPU, up to 10-core GPU and up to 24GB of unified memory.UP TO 18 HOURS OF BATTERY LIFE – Go all day and into the night, thanks to the power-efficient performance of the Apple M2 chip..",
+        "ratings":4.6,
+        
+            "image":"/images/products/15.webp",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":10
+    },
+    {
+        "name":"Lenovo IdeaPad Flex 5 12th Gen Intel Core i5-1235U 14 inch(35.56cm) WUXGA IPS 2-in-1 Laptop (16GB/512GB SSD/Win 11/Office 21/Backlit KB/Fingerprint/FHD Camera/Alexa/3 mon Game Pass/Grey/1.5Kg) 82R700JJIN",
+        "price":63000,
+        "description":"Processor: 12th Gen Intel Core i5-1235U | Speed: 10 Cores (2xP-core 1.3 / 4.4GHz, 8xE-core 0.9 / 3.3GHz) | 12 Threads | 12MB Cache;OS: Pre-Loaded Windows 11 Home with Lifetime Validity || Pre-Installed: MS Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription",
+        "ratings":4.1,
+        
+            "image":"/images/products/16.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":10
+    },
+    {
+        "name":"Lenovo IdeaPad Slim 1 Intel Core Celeron N4020 14 inch HD Thin and Light Laptop (8GB/512GB SSD/Windows 11 Home/Office 21/1Yr Warranty/Cloud Grey/1.3Kg), 82V6009LIN",
+        "price":27000,
+        "description":"Processor:Intel CeleronN4020 | Speed: 1.1 GHz (Base) - 2.8 GHz (Max) | 2 Cores | 2 Threads | 4MB Cache",
+        "ratings":4.3,
+        
+            "image":"/images/products/17.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":10
+    },
+    {
+        "name":"Lenovo V14 G3 (2024), Intel Core i3 12th Gen 1215U - (8GB/512GB SSD/Intel Integrated UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0 inch FHD Display/Iron Grey/1.57 kg/MS Office 2021",
+        "price":32000,
+        "description":"Featuring a 35.56 cm display with a resolution of 1920 x 1080 pixels, this laptop offers a crisp and clear viewing experience. The Full HD screen enhances visual clarity, making it suitable for both work and entertainment. Enjoy movies, video calls.",
+        "ratings":4.3,
+        
+            "image":"/images/products/18.webp",
+
+        "category":"Electronics",
+        "seller":"Flipkart",
+        "stock":10
+    },
+    {
+        "name":"Dell {Smartchoice} G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB (16GB RAM|1TB SSD, FHD|Window 11|MS Office' 21|15.6 inch (39.62cm)|Dark Shadow Grey|2.65Kg|Gaming Laptop",
+        "price":77990,
+        "description":"Graphics & Display: NVIDIA GeForce RTX 3050, 6GB GDDR6 & 15.6 inch FHD Narrow 120Hz 250 nits,Processor: 13th Generation Intel Core i5-13450HX (up to 4.60 GHz, 10 Cores, 20MB); RAM & Storage: 16 GB: 2 x 8 GB, DDR5, 4800 MT/s & 1TB SSD",
+        "ratings":4.7,
+        
+            "image":"/images/products/19.webp",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":6
+    },
+    {
+        "name":"Acer [Smartchoice Aspire Lite AMD Ryzen 3 5300U Premium Thin and Light Laptop (Windows 11 Home/8 GB RAM/512 GB SSD) AL15-41 with 39.62 cm (15.6 inch) Full HD Display, Metal Body, Steel Gray, 1.6 KG",
+        "price":28000,
+        "description":"Ports: 1 x USB 3.2 Gen 1 (Type A), 2 x USB 2.0 (Type A), 1 x USB 3.2 Gen 2 (Type C), 1 x DC-in jack,Processor: AMD Ryzen 3 5300U Quad-Core Mobile Processor with AMD Radeon Graphics.Maximum Power Supply Wattage 65 W",
+        "ratings":4.7,
+        
+            "image":"/images/products/20.jpg",
+
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":6
+    }
+]
